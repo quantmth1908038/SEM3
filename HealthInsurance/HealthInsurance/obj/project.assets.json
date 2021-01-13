@@ -8810,19 +8810,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DTV\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aptech\\SEM3\\HealthInsurance\\HealthInsurance\\HealthInsurance.csproj",
+      "projectUniqueName": "E:\\scholl\\Project-Sem-3\\SEM3\\HealthInsurance\\HealthInsurance\\HealthInsurance.csproj",
       "projectName": "HealthInsurance",
-      "projectPath": "D:\\Aptech\\SEM3\\HealthInsurance\\HealthInsurance\\HealthInsurance.csproj",
-      "packagesPath": "C:\\Users\\DTV\\.nuget\\packages\\",
-      "outputPath": "D:\\Aptech\\SEM3\\HealthInsurance\\HealthInsurance\\obj\\",
+      "projectPath": "E:\\scholl\\Project-Sem-3\\SEM3\\HealthInsurance\\HealthInsurance\\HealthInsurance.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\scholl\\Project-Sem-3\\SEM3\\HealthInsurance\\HealthInsurance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DTV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8887,7 +8887,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
